@@ -22,7 +22,7 @@
 
 ### 🏆 GitHub Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=D3M1S22&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy-rust.vercel.app/?username=D3M1S22&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6&no-bg=true" alt="Trophies" />
 </a>
 
 <br/>
@@ -36,10 +36,10 @@
 
 ### 📊 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=D3M1S22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" height="180" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=D3M1S22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" height="180" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3M1S22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" height="180" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=D3M1S22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" height="180" alt="Top Languages" />
 </a>
 
 <br/>
