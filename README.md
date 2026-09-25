@@ -34,6 +34,17 @@
 
 <br/>
 
+### 🔭 Featured Projects
+<a href="https://github.com/D3M1S22/dotfiles">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=D3M1S22&repo=dotfiles&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="dotfiles repo" />
+</a>
+<a href="https://github.com/D3M1S22/42">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=D3M1S22&repo=42&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="42 repo" />
+</a>
+<a href="https://github.com/D3M1S22/ai-agent-rules">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=D3M1S22&repo=ai-agent-rules&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="ai-agent-rules repo" />
+</a>
+
 ### 📊 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-stats-extended.vercel.app/api?username=D3M1S22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" height="180" alt="GitHub Stats" />
